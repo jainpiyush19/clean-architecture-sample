@@ -1,0 +1,17 @@
+# vscode and idea dirs
+.vscode
+.idea
+
+# binaries
+bin
+
+# Unneeded files and dirs
+.DS_Store
+coverage.txt
+coverage.out
+cover.out
+
+# files that should not be there for security reasons
+.netrc
+
+vendor
